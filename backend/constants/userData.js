@@ -1,0 +1,22 @@
+export const userData = {
+  USERNAME: "USERNAME",
+  FULLNAME: "FULLNAME",
+  EMAIL: "EMAIL",
+  PASSWORD: "PASSWORD",
+  PROFILE_PIC: "PROFILE_PIC",
+  FREELANCER_TYPE: "FREELANCER_TYPE",
+  ADDRESS: "ADDRESS",
+  PHONE_NUM: "PHONE_NUM",
+  HOURLY_RATE: "HOURLY_RATE",
+  DESCRIPTION: "DESCRIPTION",
+};
+
+export const freelancerPackageData = {
+  PHOTOS_NUM: "PHOTOS_NUM",
+  DESCRIPTION: "DESCRIPTION",
+  PRICE: "PRICE"
+};
+
+export const reviewData = {
+  CONTENT: "CONTENT"
+}
