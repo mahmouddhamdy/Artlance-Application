@@ -5,6 +5,9 @@ Artlance is a mobile application, a centralized platform that enables freelancer
 ## Used Technologies
 
 1- Flutter Framework for Android/iOS.
+
 2- NodeJS + Express for Backend section.
+
 3- MongoDB DBMS.
+
 4- Computer Vision and Sentiment Analysis for Machine Learning Models.
